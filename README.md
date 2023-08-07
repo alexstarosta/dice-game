@@ -9,7 +9,7 @@ Dice Game is a simple probability-based game created with Lua and Solar2D. In th
 * After losing the game, you can view your score based on your performance.
 
 ## Installation and Setup
-You can set up the game yourself, or [visit my website](https://alexstarosta.dev/) to try a live demo. Below is how to set up the game on your local machine.
+Below is how to set up the game on your local machine.
 
 * Download the Solar2D game engine from the official website.
 * Clone this repository to your local machine using: `git clone https://github.com/alexstarosta/diceGame`
